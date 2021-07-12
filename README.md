@@ -1,6 +1,14 @@
 # Wegmatten VR
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## À propos
 
-todo
+Application mobile en réalité augmentée et réalité virtuelle, réalisée pour Bricks Developpment en 2019. Permet d'augmenter les plans de 4 bâtiments en 3D et de visiter la zone en la parcourant virtuellement.
+
+## Liens de téléchargement
+
+- [App Store](https://apps.apple.com/ch/app/wegmatten/id1416486248?l=fr)
+
+## License
+
+Licensed under the [GPL v3 License](https://www.gnu.org/licenses/gpl-3.0)
