@@ -3,7 +3,7 @@
 
 ## À propos
 
-Application mobile en réalité augmentée et réalité virtuelle, réalisée pour Bricks Developpment en 2019. Permet d'augmenter les plans de 4 bâtiments en 3D et de visiter la zone en la parcourant virtuellement.
+Application mobile en réalité augmentée et réalité virtuelle, réalisée en 2019 pour Bricks Developpment Ost AG. Permet d'augmenter les plans de 4 bâtiments en 3D et de visiter la zone en la parcourant virtuellement.
 
 ## Liens de téléchargement
 
